@@ -4,7 +4,7 @@
 I'm Nwaoghor Praise, and I write codes that bring your ideas to reality. I enjoy learning new stuffs, especially within the JavaScript Ecosystem. I really enjoy writing server side codes and figuring out algorithms. You can check me on twitter at twitter.com/nwaoghorpraise
 
 ## Skills and Experience
-Skills: HTML / CSS / JS / NODEJS / MONGO
+Skills: HTML / CSS / JS / NODEJS / MONGO / GIT / LINUX
 
 - 🔭 I’m currently working on my own agency. 
 - 🌱 I’m currently learning WEB 3.0 & DevOps. 
