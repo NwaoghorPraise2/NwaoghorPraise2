@@ -1,8 +1,7 @@
 ![Welcome to my World.](https://pbs.twimg.com/profile_banners/1131171358275198978/1589381923/1500x500)
 ### Hi there 👋, my name is Nwaoghor Praise
 
-I'm Nwaoghor Praise, and I write codes that bring your ideas to reality. I enjoy learning new stuff, especially within the JavaScript Ecosystem. I really enjoy writing server side codes and figuring out algorithms. You can check me on twitter at twitter.com/nwaoghorpraise
-
+I'm Nwaoghor Praise, and I write codes that bring your ideas to reality.
 ## Skills and Experience
 Skills: HTML / CSS / JS / NODEJS / MONGO / GIT / LINUX / POSTGRESQL / AWS
 
