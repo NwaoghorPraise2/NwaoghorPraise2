@@ -1,5 +1,5 @@
 ![Welcome to my World.](https://pbs.twimg.com/profile_banners/1131171358275198978/1589381923/1500x500)
-### Hi there 👋, my name is Nwaoghor Praise
+### Hey 👋, my name is Nwaoghor Praise.
 
 I'm Nwaoghor Praise, and I write codes that bring your ideas to reality.
 ## Skills and Experience
