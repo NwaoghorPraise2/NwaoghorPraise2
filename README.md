@@ -2,7 +2,7 @@
 ### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
   
 
-- 🔭 I’m currently working on [Fin Tech API](https://github.com/NwaoghorPraise2/riquesa-app-api)  
+- 🔭 I’m currently working on [Saving App](https://github.com/NwaoghorPraise2/riquesa-app-api)  
 
 - 🌱 I’m currently learning AWS-DEVOPS  
 
