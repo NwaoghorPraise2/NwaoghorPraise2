@@ -2,9 +2,9 @@
 ### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
   
 
-- 🔭 I’m currently working on [Ezy-Save-Api-v1](https://ezy-save-api.onrender.com)  
+- 🔭 I’m currently working on [Ezy-Save-Api](https://ezy-save-api.onrender.com)  
 
-- 🌱 I’m currently learning AWS-DEVOPS  
+- 🌱 I’m currently learning AWS-DEVOPS
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
   
