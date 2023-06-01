@@ -2,7 +2,7 @@
 ### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
   
 
-- 🔭 I’m currently working on [Ezy-Save-Api](https://ezy-save-api.onrender.com)  
+- 🔭 I’m currently working on [Back-End Service](https://ezy-save-api.onrender.com)  
 
 - 🌱 I’m currently learning AWS-DEVOPS
 
