@@ -2,8 +2,6 @@
 ### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
   
 
-- 🔭 I’m currently working on [Back-End Service](https://ezy-save-api.onrender.com)  
-
 
 - ❓ Ask me about anything related to JavaScript and related technologies  
   
