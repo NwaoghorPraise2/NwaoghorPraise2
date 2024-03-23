@@ -1,9 +1,6 @@
 
 ### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
   
-
-
-- ❓ Ask me about anything related to JavaScript and related technologies  
   
 <br/>  
 
