@@ -1,5 +1,5 @@
 
-### <div align="center">Hey👋, I'm Nwaoghor Praise, I write back-end logic that brings your ideas to live🙉.</div>  
+### <div align="center">Hey👋, I'm Nwaoghor Praise Chukunweiken, I write back-end logic that brings your ideas to live🙉.</div>  
   
   
 <br/>  
