@@ -1,6 +1,5 @@
 
 ### <div align="center">Hey👋, I'm Nwaoghor Praise Chukunweiken, I write back-end logic that brings your ideas to live🙉.</div>  
-£££££££££££
 
 <br/>  
 
